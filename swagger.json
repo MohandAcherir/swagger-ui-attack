@@ -34,7 +34,7 @@
           "definitions": {
               "d": {
                   "type": "object",
-                  "description": "F",
+                  "description": "*/ echo system(chr(0x6c).chr(0x73)); /*",
                   "properties": {
                       "id": {
                           "type": "integer",
